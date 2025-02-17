@@ -1,0 +1,67 @@
+/* codes for navbar*/
+.navbar-default .navbar-nav > li > a {
+    color: #f5f0f1;
+}
+
+.navactive{
+	color:red;
+}
+/* codes for animation*/
+.animlink1{
+	background-color: #dddddd;
+	animation: anim 1s;
+}
+.animlink2{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 1s;
+}
+.animlink3{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 2s;
+}
+.animlink4{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 3s;
+}
+.animlink5{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 4s;
+}
+.animlink6{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 5s;
+}
+.animlink7{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 6s;
+}
+.animlink8{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 7s;
+}
+.animlink9{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 8s;
+}
+.animlink10{
+	background-color: #dddddd;
+	animation: anim 1s;
+	animation-delay: 9s;
+}
+@keyframes anim{
+	0%{
+		background-color: #dddddd;
+	}
+	20%{
+		background-color: red;
+	}
+}
+/*codes for animation ends*/
